@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 # Sebastián - QA Automation Engineer
 
 Bienvenido a mi portafolio. Soy Sebastián, QA Automation Engineer con experiencia en pruebas automatizadas y desarrollo de software. Aquí encontrarás algunos de mis proyectos más destacados.
